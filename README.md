@@ -1,4 +1,4 @@
-# Welcome to brandenhernandez.github.io
+# Welcome
 
 This is a profile featuring a coding portfolio and associated organizations
 
@@ -6,7 +6,7 @@ This is a profile featuring a coding portfolio and associated organizations
 
 ###### Contents:
 
-	Branden Hernandez
+	Branden Lawrence
 	
 ###### Design:
 	
